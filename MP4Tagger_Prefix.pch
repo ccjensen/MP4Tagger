@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MP4Tagger' target in the 'MP4Tagger' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

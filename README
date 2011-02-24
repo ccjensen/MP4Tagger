@@ -1,0 +1,12 @@
+++++++++++  MP4Tagger v0.1  ++++++++++
+works on Mac OS X Leopard & Snow Leopard
+
+thanks goes to:
+the MP4v2 team (http://code.google.com/p/mp4v2/) for their excellent mp4 container editing library
+the Subler team (http://code.google.com/p/subler/), their project was used as a template for MP4Tagger
+
+This project builds a commandline mp4/m4v tagger called MP4Tagger. It is based upon Subler, which uses the mp4v2 library. It's written in a mix of C, C++ and Objective-C.
+
+
+++++++++++ WARNING ++++++++++
+This project is not being updated as Subler has released a fully functional commandline tool. This project was created prior to this fact, and the need for this has disappeared. That said, please feel free to use or modify the code in anyway toy see fit.
